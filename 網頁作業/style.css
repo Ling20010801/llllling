@@ -1,0 +1,118 @@
+/* css選擇器 */
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0px;
+}
+
+
+
+header {
+    background-color: #FFF5EE;
+    align-items: center;
+    padding-left: 60px;
+
+}
+
+.jjj {
+    display: flex;
+}
+
+.a-title {
+    display: inline-block;
+    text-decoration: none;
+    padding-top: 30px;
+    padding-bottom: 20px;
+    padding-right: 45px;
+    color: #191970;
+    font-size: 44px;
+    text-align: left;
+    font-family: NSimSun, SimSun;
+    display: flex;
+    border-bottom: #191970 4px solid;
+
+}
+
+.ghi {
+    margin-top: 15px;
+    height: 120px;
+    width: 120px;
+}
+
+h2 {
+    display: inline-block;
+    text-decoration: none;
+    padding-bottom: 20px;
+    color: #191970;
+    font-size: 18px;
+    text-align: left;
+    font-family: NSimSun, SimSun;
+
+}
+
+section {
+    background-color: #FFE4E1;
+}
+
+section img {
+    height: 80px;
+    width: 80px;
+}
+
+.abc {
+    height: 150px;
+    width: 150px;
+
+}
+
+
+
+h3 {
+    color: rgb(0, 0, 0);
+    font: size 20px;
+    text-align: center;
+    font-family: NSimSun, SimSun;
+}
+
+
+
+h4 {
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    text-align: center;
+    font-family: NSimSun, SimSun;
+}
+
+h5 {
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    text-align: center;
+    font-family: NSimSun, SimSun;
+}
+
+h6 {
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    text-align: center;
+    font-family: NSimSun, SimSun;
+}
+
+p {
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    text-align: center;
+    font-family: NSimSun, SimSun;
+}
+
+footer {
+    background-color: #FFEBCD;
+}
+
+.def {
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    text-align: right;
+    font-family: NSimSun, SimSun;
+}
